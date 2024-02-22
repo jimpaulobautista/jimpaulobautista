@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jimpaulobautista
 - 👀 I’m interested in applying computer methods in studying earth processes.
-- 🌱 I’m currently learning GIS and Google Earth Engine
-- 💞️ I’m looking to collaborate on studies involving geomorphology and remote sensing techniques.
+- 🌱 I’m currently learning GIS, Python, and Google Earth Engine
+- 💞️ Looking forward to collaborate on studies involving geomorphology and remote sensing techniques.
 - 📫 You can reach me at bautistajimpaulo@gmail.com
 
 <!---
